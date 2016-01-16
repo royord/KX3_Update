@@ -6,6 +6,8 @@ Backpackers are a completely different type of QRP user, while QRP for the day u
 
 KX3 Updates
 -----------
+- Add 2 meter or 440 so that it can be used even in the MURS frequencies between backpackers on the trail.
+- Control radio frequecies from iOS device when you don't have direct access, many backpackers still carry their phones for taking photos while backpacking.
 - While it would be nice to have all frequencies it may not be absolutely necessary. The core frequencies for long distance low power contacts would be the best to have. Include all if it doesn't add hardware, idealy 10 - 80 meters would be the best, so that even when the bands are bad the radio may be able to get out on 80 meters.
 - Remove some of the buttons, or allow buttons to be assigned in the menu, or by the application that allows configuration while at home.
 - Make some of the buttons light up with LED in the back ground. LED would be the best for weight and the amount of power used to light up the buttons.
@@ -24,6 +26,7 @@ KX3 Updates
 - USB connector to upgrade radio.
 - Ability to do PSK Mail from a modile iOS or Android device would be amazing!
 - Since we have Bluetooth it would be cool if you could do Digital work directly with fldigi through the bluetooth with the your computer connected without all the cables, or do it with your iOS/android device.
+- Log GPS cordinates in a GPS only mode so that it can be plugged in later to update where you've been and how fast you have been moving (this is really a nice to have)
 
 Contenders for Trail Worthy Radios:
 ============================================================
