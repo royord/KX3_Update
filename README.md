@@ -28,7 +28,7 @@ KX3 Updates
 Contenders for Trail Worthy Radios:
 ============================================================
 LD-5 (http://www.lnrprecision.com/transceivers/ld-5/)
-============================================================
+------------------------------------------------------------
 Shortcommings
 ===================
 1 to 2 A typical in transmit; 350 mA minimum receive, typical
