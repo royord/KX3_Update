@@ -30,28 +30,28 @@ Contenders for Trail Worthy Radios:
 LD-5 (http://www.lnrprecision.com/transceivers/ld-5/)
 ------------------------------------------------------------
 Shortcommings
-===================
-1 to 2 A typical in transmit; 350 mA minimum receive, typical
-Weight (excl.mic) 19oz/.54 kilogram
-Screen is going to require backlight to see what frequence you are on it seems.
-Backlight for buttons not there.
+-------------
+- 1 to 2 A typical in transmit; 350 mA minimum receive, typical
+- Weight (excl.mic) 19oz/.54 kilogram
+- Screen is going to require backlight to see what frequence you are on it seems.
+- Backlight for buttons not there.
 
 Benefits
-===================
-External Power
-Less buttons
-Less Nobs
-Dedicated on off switch
+-------------
+- External Power
+- Less buttons
+- Less Nobs
+- Dedicated on off switch
 
 ============================================================
 FX-4a (http://www.lnrprecision.com/store/#!/FX-4a/p/45044303/category=10468544)
 ============================================================
 Shortcommings
-===================
-Limited Bands
+-------------
+- Limited Bands
 
 Benefits
-===================
+-------------
 
 ============================================================
 TJ2B (http://youkits.com/)
@@ -77,18 +77,18 @@ Benefits
 X1M (http://www.wouxun.us/item.php?item_id=302)
 ============================================================
 Shortcommings
-===================
-Weight 1.43 lbs
-Small Screen
-Drops AM
+-------------
+- Weight 1.43 lbs
+- Small Screen
+- Drops AM
 
 Benefits
-===================
-Limited Buttons
-Seems like buttons may be programmabel to some extent.
+-------------
+- Limited Buttons
+- Seems like buttons may be programmabel to some extent.
 
-Other competitor
-http://www.m0nka.co.uk/
+- Other competitor
+- http://www.m0nka.co.uk/
 
 ============================================================
 SG-2020 (http://www.sgcworld.com/)
