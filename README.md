@@ -60,18 +60,18 @@ There are a lot of questions with this radio still left unresolved however I wou
 even with the current shortcomings due to the fact of size and portability over any other radio.
 
 Shortcommings
-===================
-Limited Bands
-Limited transmission bands
-Too Few buttons
-Screen to Small
+-------------------
+- Limited Bands
+- Limited transmission bands
+- Too Few buttons
+- Screen to Small
 
 Benefits
-===================
-Small
-Battery powered
-Good Setup
-Limited Buttons
+---------------
+- Small
+- Battery powered
+- Good Setup
+- Limited Buttons
 
 ============================================================
 X1M (http://www.wouxun.us/item.php?item_id=302)
